@@ -1,0 +1,71 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Mantrap rescue
+
+## Skin
+
+### Multiline Text
+HTMLText_5DDBC9D5_4B00_1C26_417E_DA9F4A9AA7F9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:37px;"><B>Current score: </B></SPAN><SPAN STYLE="font-size:37px;"><B>{{quiz.score}}</B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+album_5D90C758_4B00_342E_41A2_66E27368B992.label = Photo Album WhatsApp Image 2020-12-10 at 14.33.20
+album_5D90C758_4B00_342E_41A2_66E27368B992_0.label = WhatsApp Image 2020-12-10 at 14.33.20
+panorama_4011458B_4B00_3422_415C_24950B1E946A.label = Inside lift
+panorama_41C1397A_4B00_1CE2_4190_954D6B9BCBD7.label = Ground floor
+panorama_41FC300E_4B00_2C22_41D0_E137DF0C14C4.label = Top floor
+panorama_5A999F9E_4B00_3422_41D2_137EE6DF5347.label = Jimmy help
+video_5157D97C_4B00_1CE6_41D0_1C93A0996B55.label = WhatsApp Video 2020-12-10 at 12.13.20
+
+## Popup
+
+### Body
+htmlText_5C15BF85_4B00_F426_41AB_D60E9D710C67.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Hello, technician here!</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Are you okay?</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Anyone hurt or not feeling well?</SPAN></DIV></BODY></HTML></div>
+
+## Action
+
+### URL
+LinkBehaviour_5B558FA9_4B00_346E_41D1_5149D20DBA09.source = //www.youtube.com/embed/3pSW8-3Zth0?v=3pSW8-3Zth0
+
+## E-Learning
+
+### Answer
+questionOption_589C1215_4B00_2C26_41C3_6403C88619D5.text = White
+questionOption_592EF859_4B00_1C2E_41C0_66DE9D0B9924.text = Yellow
+questionOption_59FF6D97_4B00_1422_41C7_3DDC77EAE131.text = Blue
+
+### Score Name
+score1.label = Score 1
+
+### Question
+question_59E42425_4B00_1466_41CC_01374E311C49.title = What is the colour of the alarm bell?
+
+### Question Screen
+quizQuestion_583CB135_4B00_2C66_41C2_DF6EF90A7772.ok = OK
+
+### Report Screen
+quizScore_583A8136_4B00_2C62_41B5_AFB346D0C209.completion = Completed
+quizScore_583A8136_4B00_2C62_41B5_AFB346D0C209.downloadCSV = Download .csv
+quizScore_583A8136_4B00_2C62_41B5_AFB346D0C209.elapsedTime = Time
+quizScore_583A8136_4B00_2C62_41B5_AFB346D0C209.items = Items Found
+quizScore_583A8136_4B00_2C62_41B5_AFB346D0C209.questions = Questions
+quizScore_583A8136_4B00_2C62_41B5_AFB346D0C209.questionsCorrect = Correct
+quizScore_583A8136_4B00_2C62_41B5_AFB346D0C209.questionsIncorrect = Incorrect
+quizScore_583A8136_4B00_2C62_41B5_AFB346D0C209.repeat = Repeat
+quizScore_583A8136_4B00_2C62_41B5_AFB346D0C209.submitToLMS = Submit
+quizScore_583A8136_4B00_2C62_41B5_AFB346D0C209.title = - SCORE -
+
+### Timeout Screen
+quizTimeout_583E5135_4B00_2C66_41CA_19EB3D4F8B83.repeat = Repeat
+quizTimeout_583E5135_4B00_2C66_41CA_19EB3D4F8B83.score = View Score
+quizTimeout_583E5135_4B00_2C66_41CA_19EB3D4F8B83.title = - TIMEOUT -
