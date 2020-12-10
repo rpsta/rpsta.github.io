@@ -1,0 +1,52 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
+
+## Skin
+
+### Multiline Text
+HTMLText_592A8457_4BD3_0D65_41C3_E0284ED77E70.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>Score: </B></SPAN><SPAN STYLE="font-size:21px;"><B>{{quiz.media.score}}: {{quiz.score1.media.score.total}}</B></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+panorama_406A453F_4B55_0F25_41D2_2AD23EC4B56C.label = Scene 1_Entrance of SIT
+panorama_44652409_4BAF_0CED_41C2_2D3A6601C16F.label = IMG_20201210_132032_00_merged
+panorama_5A23E3E0_4B7F_0B5B_41CF_6AE4CEE3A1F7.label = Scene 2_Entrance of Admiralty Park
+panorama_5B7400E6_4BD5_0527_41CF_91A84D224F7B.label = IMG_20201210_132135_00_merged
+
+## Popup
+
+### Body
+htmlText_45E0652D_4B57_0F25_4190_BF877CE9C689.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Welcome to Admiralty Park and visit Singapore's largest playground!</SPAN></DIV></BODY></HTML></div>
+htmlText_47AA1EF6_4B52_FD27_41A7_907774745600.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">WELCOME TO ADMIRALTY PARK! Today we are going to visit one of the largest playground in Singapore</SPAN></DIV></BODY></HTML></div>
+
+## E-Learning
+
+### Score Name
+score1.label = Score 1
+
+### Question Screen
+quizQuestion_5BC993A5_4B55_0B25_4180_296D3727C631.ok = OK
+
+### Report Screen
+quizScore_5BC7A3A5_4B55_0B25_41BC_6CF21622E518.completion = Completed
+quizScore_5BC7A3A5_4B55_0B25_41BC_6CF21622E518.downloadCSV = Download .csv
+quizScore_5BC7A3A5_4B55_0B25_41BC_6CF21622E518.elapsedTime = Time
+quizScore_5BC7A3A5_4B55_0B25_41BC_6CF21622E518.items = Items Found
+quizScore_5BC7A3A5_4B55_0B25_41BC_6CF21622E518.questions = Questions
+quizScore_5BC7A3A5_4B55_0B25_41BC_6CF21622E518.questionsCorrect = Correct
+quizScore_5BC7A3A5_4B55_0B25_41BC_6CF21622E518.questionsIncorrect = Incorrect
+quizScore_5BC7A3A5_4B55_0B25_41BC_6CF21622E518.repeat = Repeat
+quizScore_5BC7A3A5_4B55_0B25_41BC_6CF21622E518.submitToLMS = Submit
+quizScore_5BC7A3A5_4B55_0B25_41BC_6CF21622E518.title = - SCORE -
+
+### Timeout Screen
+quizTimeout_5BC863A5_4B55_0B25_41D0_D649A741B42E.repeat = Repeat
+quizTimeout_5BC863A5_4B55_0B25_41D0_D649A741B42E.score = View Score
+quizTimeout_5BC863A5_4B55_0B25_41D0_D649A741B42E.title = - TIMEOUT -
