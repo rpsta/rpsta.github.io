@@ -1,0 +1,66 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
+
+## Media
+
+### Title
+album_5F7F5FB4_4F95_B063_41CD_50FC110F5316.label = Photo Album Screenshot 2020-12-10 at 1.39.21 PM
+album_5F7F5FB4_4F95_B063_41CD_50FC110F5316_0.label = Screenshot 2020-12-10 at 1.39.21 PM
+map_580E9378_4F94_50E3_41C9_D0BF1A933E29.label = KGlam Google Map
+panorama_4DC9D5A4_4695_F063_41BE_B8ED439DE512.label = IMG_20200815_191356_00_merged
+panorama_4F430ED8_4695_F023_41C7_34B9320B717B.label = IMG_20200815_191506_00_merged(1)
+panorama_4F47875F_4695_D0DD_41BD_633BB1684236.label = IMG_20200815_191528_00_merged(1)
+panorama_4F47998D_4694_503D_41C6_282D55132308.label = IMG_20200815_192243_00_merged(1)
+panorama_4F47A236_4694_706C_41A9_035463EA37D6.label = IMG_20200815_192319_00_merged(1)
+panorama_4F47BFD7_4695_D02D_41A0_9B83AB0B1552.label = IMG_20200815_192128_00_merged(1)
+panorama_4F47E86F_4695_B0FD_41C7_26158983FBA2.label = IMG_20200815_192152_00_merged(1)
+panorama_4F47F0F6_4694_51EF_41C6_8FDD10BA66A8.label = IMG_20200815_192215_00_merged(1)
+
+## Action
+
+### URL
+LinkBehaviour_5EEAFFE2_4F9B_CFE7_41D0_5B2F5DECD7BB.source = https://en.wikipedia.org/wiki/Halal
+
+## E-Learning
+
+### Answer
+questionOption_5E4D15CA_4F9D_B027_41BB_12929BA1ACCC.text = Japanese
+questionOption_5F491FEE_4F94_4FFF_41CD_C777E4615A07.text = That Mosque
+questionOption_5FA535EA_4F9D_D3E7_41C3_BAFEA7668394.text = Italian
+questionOption_5FB3277B_4F9D_F0E5_41AD_5DC72C5B2430.text = Chinese
+questionOption_5FC5F5EE_4F9D_D3FF_419E_97C00A26AF5F.text = Muslim
+questionOption_5FD7ABD0_4F94_5023_41CA_E8782797ABE4.text = Anything Old
+questionOption_5FFDF021_4F94_D065_41B6_BFF9C6A93785.text = Falling buildings
+
+### Score Name
+score1.label = Score 1
+
+### Question
+question_5E7CA5FE_4F94_53DF_41B3_2C85AAF8B1B7.title = Name a Heritage building in KG
+question_5EB7A870_4F9F_D0E3_41CE_FE12E5872EF8.title = What restaurant is this?
+
+### Question Screen
+quizQuestion_5C98681B_4FF4_7025_41C0_D4ECB1B27076.ok = OK
+
+### Report Screen
+quizScore_5C9A281B_4FF4_7025_41C4_214C3AA281D5.completion = Completed
+quizScore_5C9A281B_4FF4_7025_41C4_214C3AA281D5.downloadCSV = Download .csv
+quizScore_5C9A281B_4FF4_7025_41C4_214C3AA281D5.elapsedTime = Time
+quizScore_5C9A281B_4FF4_7025_41C4_214C3AA281D5.items = Items Found
+quizScore_5C9A281B_4FF4_7025_41C4_214C3AA281D5.questions = Questions
+quizScore_5C9A281B_4FF4_7025_41C4_214C3AA281D5.questionsCorrect = Correct
+quizScore_5C9A281B_4FF4_7025_41C4_214C3AA281D5.questionsIncorrect = Incorrect
+quizScore_5C9A281B_4FF4_7025_41C4_214C3AA281D5.repeat = Repeat
+quizScore_5C9A281B_4FF4_7025_41C4_214C3AA281D5.submitToLMS = Submit
+quizScore_5C9A281B_4FF4_7025_41C4_214C3AA281D5.title = - SCORE -
+
+### Timeout Screen
+quizTimeout_5C9EB81A_4FF4_7027_41AA_FF1415980EC3.repeat = Repeat
+quizTimeout_5C9EB81A_4FF4_7027_41AA_FF1415980EC3.score = View Score
+quizTimeout_5C9EB81A_4FF4_7027_41AA_FF1415980EC3.title = - TIMEOUT -
