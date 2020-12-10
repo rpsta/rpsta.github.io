@@ -1,0 +1,25 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 16
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_40711226_4AC4_B3D9_41CF_7576939F67EF.label = IMG_20201210_113114_00_merged
+panorama_43087EF2_4AC4_F039_41CF_C12058F33D5D.label = IMG_20201210_113914_00_merged
+panorama_4308A376_4AC4_F039_4199_498C2126E61E.label = IMG_20201210_113857_00_merged
+panorama_4308C8FB_4AC4_902F_419E_0880D48C3E5A.label = IMG_20201210_113444_00_merged
+panorama_4315DE05_4AC4_B3DB_41C5_1ABCF0A35099.label = IMG_20201210_113248_00_merged
+panorama_5D2D386A_4B14_905E_41BD_8B70FAE2B245.label = GS__0178
+panorama_5DBF2CFE_4B0C_9039_41C6_E27C8A5B846F.label = GS__0179
