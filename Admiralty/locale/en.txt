@@ -7,17 +7,13 @@
 ### Title
 tour.name = Untitled 2
 
-## Skin
-
-### Multiline Text
-HTMLText_592A8457_4BD3_0D65_41C3_E0284ED77E70.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>Score: </B></SPAN><SPAN STYLE="font-size:21px;"><B>{{quiz.media.score}}: {{quiz.score1.media.score.total}}</B></SPAN></SPAN></DIV></div>
-
 ## Media
 
 ### Title
 panorama_406A453F_4B55_0F25_41D2_2AD23EC4B56C.label = Scene 1_Entrance of SIT
 panorama_44652409_4BAF_0CED_41C2_2D3A6601C16F.label = IMG_20201210_132032_00_merged
 panorama_5A23E3E0_4B7F_0B5B_41CF_6AE4CEE3A1F7.label = Scene 2_Entrance of Admiralty Park
+panorama_5B583FE9_4BA7_CA6E_41BD_4C7E30AC8249.label = IMG_20201210_132316_00_merged
 panorama_5B7400E6_4BD5_0527_41CF_91A84D224F7B.label = IMG_20201210_132135_00_merged
 
 ## Popup
